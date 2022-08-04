@@ -1,6 +1,6 @@
 # -#100DaysOfOpenSource
 
-📌OPEN SOURCE ROADMAP 
+📌OPEN SOURCE CONTRIBUTION ROADMAP 
           
 	 
 	 
